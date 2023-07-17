@@ -1,27 +1,26 @@
-<div align="center"> 
-<h1>Pablo Henrique da Silva Andrade</h1>
+<h1 align="center">I'm Pablo Henrique, 18 years old,  Graduating at Federal University of Ceara</h1>
+<h3 align="center">A Back End Developer, living in Brazil, I have a genuine interest in deepening my knowledge about concepts and technologies that transcend direct visual perception.</h3>
 
-Sou estudante do curso de Engenharia da Computação da Universidade Federal do Ceará 
-</div>
+<h3 align="center">I am focused on developing myself in Back End focused on Java :)</h3>
 
-<div align="center"> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Pablobrek-bit&label=Profile%20views&color=0e75b6&style=flat" alt="Pablobrek-bit" />
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/pablo-henrique-3b5364268/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pablo-henrique-3b5364268/" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<div align="left"> 
   <div style="display: inline_block"><br>
-    <img align="center" alt="Java icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    <img align="center" alt="C icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-    <img align="center" alt="Git icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="left" alt="Java icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+    <img align="left" alt="C icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+    <img align="left" alt="Git icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
-
-</div>
-<div aligh="center">
-<h1>CONTATO</h1>
-    <a href ="https://www.instagram.com/_pabllo_henrique/" target ="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a href ="https://www.linkedin.com/in/pablo-henrique-3b5364268/" target = "_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href ="mailto:pablobreak2017@alu.ufc.br" target = "_blank">
-      <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-</div>
-
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pablobrek-bit&show_icons=true&locale=en" alt="Pablobrek-bit" />
+</p>
