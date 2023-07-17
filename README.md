@@ -1,4 +1,4 @@
-<h1 align="center">I'm Pablo Henrique, 18 years old,  Graduating at Federal University of Ceara</h1>
+<h1 align="center">I'm Pablo Henrique, 18 years old, Graduating at Federal University of Ceara</h1>
 <h3 align="center">A Back End Developer, living in Brazil, I have a genuine interest in deepening my knowledge about concepts and technologies that transcend direct visual perception.</h3>
 
 <h3 align="center">I am focused on developing myself in Back End focused on Java :)</h3>
@@ -14,14 +14,15 @@
   </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<div align="left"> 
+<h3 align="left">Languages and Tools:</h3>
+<div align="left">
   <div style="display: inline_block"><br>
     <img align="left" alt="Java icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     <img align="left" alt="C icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
     <img align="left" alt="Git icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
+  </div>
 </div>
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pablobrek-bit&show_icons=true&locale=en" alt="Pablobrek-bit" />
 </p>
