@@ -20,6 +20,7 @@
     <img align="left" alt="Java icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     <img align="left" alt="C icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
     <img align="left" alt="Git icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="left" alt="VS Code icon" height="40" width="40" src="https://img.shields.io/badge/-%23007ACC?logo=visual%20studio%20code&logoColor=white&style=flat">
   </div>
 </div>
 <p></p>
