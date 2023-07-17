@@ -21,6 +21,7 @@
     <img align="left" alt="C icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
     <img align="left" alt="Git icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
+</div>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pablobrek-bit&show_icons=true&locale=en" alt="Pablobrek-bit" />
 </p>
