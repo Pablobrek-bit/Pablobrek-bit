@@ -23,6 +23,6 @@
     <img align="left" alt="VS Code icon" height="40" width="40" src="https://code.visualstudio.com/assets/favicon.ico">
   </div>
 </div>
-<p></p>
+<br><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pablobrek-bit&show_icons=true&locale=en" alt="Pablobrek-bit" /></p>
