@@ -12,7 +12,6 @@
   <a href="https://www.linkedin.com/in/pablo-henrique-3b5364268/" target="_blank" title="Linkedin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="Linkedin"></a>
   <a href="https://www.instagram.com/_pabllo_henrique/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" title="Instagram"></a>
   <a href="pablobreak2017@alu.ufc.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"></a>
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pablo-henrique-3b5364268/" height="30" width="40" />
   </a>
 </p>
 
