@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/pablo-henrique-3b5364268/" target="_blank" title="Linkedin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="Linkedin"></a>
-  <a href="https://www.instagram.com/_pabllo_henrique/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" title="Instagram"></a>
-  <a href="pablobreak2017@alu.ufc.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"></a>
+  <a href="https://www.linkedin.com/in/pablo-henrique-3b5364268/" target="_blank"><img height="48px" src="https://user-images.githubusercontent.com/101757815/219233890-5c54c2ab-9492-4683-a9fd-3fdf41841902.svg" target="_blank"></a>
+  <a href="https://www.instagram.com/_pabllo_henrique/" target="_blank"><img height="48px" src="https://user-images.githubusercontent.com/101757815/219234426-bc9e3560-bfd5-4246-9ce4-cd28dc8ae167.svg" target="_blank"></a> 
+  <a href="pablobreak2017@alu.ufc.br" target="_blank"><img height="48px" src="https://user-images.githubusercontent.com/101757815/219234198-9db4f3f8-63a7-4ab0-9a5b-152004a06773.svg" target="_blank"></a>
   </a>
 </p>
 
@@ -26,4 +26,10 @@
 </div>
 <br><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pablobrek-bit&show_icons=true&locale=en" alt="Pablobrek-bit" /></p>
+##  &nbsp; 📊 Statistics
+
+<div align="center">
+  <a href="https://github.com/Pablobrek-bit">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablobrek-bit&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Felipe Muniz stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablobrek-bit&layout=compact&langs_count=6&theme=dark" alt="Felipe Muniz most languages"/>
+</div>
