@@ -30,6 +30,6 @@
 
 <div align="center">
   <a href="https://github.com/Pablobrek-bit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablobrek-bit&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Felipe Muniz stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablobrek-bit&layout=compact&langs_count=6&theme=dark" alt="Felipe Muniz most languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pablobrek-bit&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Felipe Muniz stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pablobrek-bit&layout=compact&langs_count=6&theme=dark" alt="Felipe Muniz most languages"/>
 </div>
