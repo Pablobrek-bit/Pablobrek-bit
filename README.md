@@ -13,7 +13,17 @@
     </div>  
 </h4>
 
+<<<<<<< HEAD
 ## <img align="center" src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="35px" height="35"/>About me
+=======
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/pablo-henrique-3b5364268/" target="_blank"><img height="48px" src="https://user-images.githubusercontent.com/101757815/219233890-5c54c2ab-9492-4683-a9fd-3fdf41841902.svg" target="_blank"></a>
+  <a href="https://www.instagram.com/_pabllo_henrique/" target="_blank"><img height="48px" src="https://user-images.githubusercontent.com/101757815/219234426-bc9e3560-bfd5-4246-9ce4-cd28dc8ae167.svg" target="_blank"></a> 
+  <a href="pablobreak2017@alu.ufc.br" target="_blank"><img height="48px" src="https://user-images.githubusercontent.com/101757815/219234198-9db4f3f8-63a7-4ab0-9a5b-152004a06773.svg" target="_blank"></a>
+  </a>
+</p>
+>>>>>>> bd6008429e98fba993b804b0d5daf6ab2a49ab21
 
 ```
 My name is Pablo Henrique, I'm 18 years old. 
@@ -28,6 +38,7 @@ Nowadays I focus on programming, always expanding my knowledge with the new tech
 <h4><img align="center"  alt="Alien" width="200" height="200" src="https://64.media.tumblr.com/7d6c6006d54d3f32a22badac769049e3/tumblr_inline_ojj9i5v6wV1sp1kfz_500.gifv"> Total hits on my git:  <img align="center" src="https://profile-counter.glitch.me/Pablobrek-bit/count.svg"></h4>
 </div>
 
+<<<<<<< HEAD
 ##
 
 <div>
@@ -52,3 +63,12 @@ Nowadays I focus on programming, always expanding my knowledge with the new tech
 </a> 
 </p>
 
+=======
+##  &nbsp; 📊 Statistics
+
+<div align="center">
+  <a href="https://github.com/Pablobrek-bit">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pablobrek-bit&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Felipe Muniz stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pablobrek-bit&layout=compact&langs_count=6&theme=dark" alt="Felipe Muniz most languages"/>
+</div>
+>>>>>>> bd6008429e98fba993b804b0d5daf6ab2a49ab21
