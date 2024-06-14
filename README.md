@@ -16,14 +16,15 @@
 ## <img align="center" src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="35px" height="35"/>About me
 
 ```
-My name is Pablo Henrique, I'm 18 years old. 
+My name is Pablo Henrique, I'm 18 years old.
 
-I'm currently studying Computer Engineering, but I've been introduced to technology since I was a computer network technician in high school, so I started following this line of life and fell in love with the area. 
+I'm currently studying Computer Engineering, but I've been introduced to technology since I was a computer network technician in high school, so I started following this line of life and fell in love with the area.
 
 Nowadays I focus on programming, always expanding my knowledge with the new technologies that are emerging.
 ```
 
 ##
+
 <div align="center">
 <h4><img align="center"  alt="Alien" width="200" height="200" src="https://64.media.tumblr.com/7d6c6006d54d3f32a22badac769049e3/tumblr_inline_ojj9i5v6wV1sp1kfz_500.gifv"> Total hits on my git:  <img align="center" src="https://profile-counter.glitch.me/Pablobrek-bit/count.svg"></h4>
 </div>
@@ -34,9 +35,9 @@ Nowadays I focus on programming, always expanding my knowledge with the new tech
   <a href="https://github.com/hadesfranklyn">
 </div>
 
-## 👩‍💻Languages I Know:
+## 👩‍💻Technologies I Know:
 
-<p align="left"> <a href="https://github.com/hadesfranklyn"><img src="https://skillicons.dev/icons?i=vscode,eclipse,spring,postman,github,git,mysql,ts,js,css,html,java"> </a> </p>
+<p align="left"> <a href="https://github.com/hadesfranklyn"><img src="https://skillicons.dev/icons?i=spring,postman,git,mysql,postgres,ts,js,css,html,java,nodejs,prisma,react"> </a> </p>
 
 ## 📊My Stats:
 
