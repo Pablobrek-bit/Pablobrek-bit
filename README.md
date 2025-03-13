@@ -16,7 +16,7 @@
 ## <img align="center" src="https://raw.githubusercontent.com/hadesfranklyn/hadesfranklyn/master/manopla.gif" width="35px" height="35"/>About me
 
 ```
-My name is Pablo Henrique, I'm 18 years old.
+My name is Pablo Henrique, I'm 20 years old.
 
 I'm currently studying Computer Engineering, but I've been introduced to technology since I was a computer network technician in high school, so I started following this line of life and fell in love with the area.
 
@@ -37,19 +37,11 @@ Nowadays I focus on programming, always expanding my knowledge with the new tech
 
 ## 👩‍💻Technologies I Know:
 
-<p align="left"> <a href="https://github.com/hadesfranklyn"><img src="https://skillicons.dev/icons?i=spring,postman,git,mysql,postgres,ts,js,css,html,java,nodejs,prisma,react"> </a> </p>
+<p align="left"> <a href="https://github.com/hadesfranklyn"><img src="https://skillicons.dev/icons?i=java,spring,postman,git,mysql,postgres,ts,js,css,html,nodejs,prisma,react,docker"> </a> </p>
 
 ## 📊My Stats:
 
 <p align="center" >
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Pablobrek-bit&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pablobrek-bit&theme=xcode&hide_border=true" />
-</p>
-
-## 💻Activity On GitHub:
-
-<p align="center">
-  <a href="https://github.com/Pablobrek-bit">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pablobrek-bit&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
 </p>
