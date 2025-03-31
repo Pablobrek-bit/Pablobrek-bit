@@ -37,7 +37,7 @@ Nowadays I focus on programming, always expanding my knowledge with the new tech
 
 ## 👩‍💻Technologies I Know:
 
-<p align="left"> <a href="https://github.com/hadesfranklyn"><img src="https://skillicons.dev/icons?i=java,spring,postman,git,mysql,postgres,ts,js,css,html,nodejs,prisma,react,docker"> </a> </p>
+<p align="left"> <a href="https://github.com/hadesfranklyn"><img src="https://skillicons.dev/icons?i=java,spring,git,mysql,postgres,ts,nodejs,prisma,react,docker"> </a> </p>
 
 ## 📊My Stats:
 
